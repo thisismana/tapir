@@ -16,7 +16,7 @@ RUN npm ci
 
 
 # Java
-FROM gradle:7 as java
+FROM gradle:8 as java
 
 COPY java .
 
