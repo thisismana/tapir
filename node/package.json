@@ -14,7 +14,7 @@
     "format": "prettier --write '__tests__/**/*.ts'"
   },
   "dependencies": {
-    "@grpc/grpc-js": "1.4.4",
+    "@grpc/grpc-js": "1.8.16",
     "@types/google-protobuf": "3.15.5",
     "google-protobuf": "3.19.1"
   },
