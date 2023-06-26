@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@jest/types": "27.2.5",
-    "grpc-tools": "1.11.2",
+    "grpc-tools": "1.12.4",
     "jest": "27.3.1",
     "prettier": "2.4.1",
     "ts-jest": "27.0.7",
